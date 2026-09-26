@@ -27,79 +27,107 @@
   "links": [],
   "downloads": {
     "xmb9": {
-      "version": "1.0.1",
-      "file_name": "downloads/online.soodok.wordsearch.release.1.0.1.rpk",
-      "versionCode": 2,
+      "version": "1.0.2",
+      "file_name": "downloads/online.soodok.wordsearch.release.1.0.2.rpk",
+      "versionCode": 3,
       "updatelogs": [
         {
           "version": "1.0.1",
           "content": "优化内存管理"
+        },
+        {
+          "version": "1.0.2",
+          "content": "解决启动重启"
         }
       ]
     },
     "xmb10nfc": {
-      "version": "1.0.1",
-      "file_name": "downloads/online.soodok.wordsearch.release.1.0.1.rpk",
-      "versionCode": 2,
+      "version": "1.0.2",
+      "file_name": "downloads/online.soodok.wordsearch.release.1.0.2.rpk",
+      "versionCode": 3,
       "updatelogs": [
         {
           "version": "1.0.1",
           "content": "优化内存管理"
+        },
+        {
+          "version": "1.0.2",
+          "content": "解决启动重启"
         }
       ]
     },
     "xmb10p": {
-      "version": "1.0.1",
-      "file_name": "downloads/online.soodok.wordsearch.release.1.0.1.rpk",
-      "versionCode": 2,
+      "version": "1.0.2",
+      "file_name": "downloads/online.soodok.wordsearch.release.1.0.2.rpk",
+      "versionCode": 3,
       "updatelogs": [
         {
           "version": "1.0.1",
           "content": "优化内存管理"
+        },
+        {
+          "version": "1.0.2",
+          "content": "解决启动重启"
         }
       ]
     },
     "xmb11": {
-      "version": "1.0.1",
-      "file_name": "downloads/online.soodok.wordsearch.release.1.0.1.rpk",
-      "versionCode": 2,
+      "version": "1.0.2",
+      "file_name": "downloads/online.soodok.wordsearch.release.1.0.2.rpk",
+      "versionCode": 3,
       "updatelogs": [
         {
           "version": "1.0.1",
           "content": "优化内存管理"
+        },
+        {
+          "version": "1.0.2",
+          "content": "解决启动重启"
         }
       ]
     },
     "xmb11nfc": {
-      "version": "1.0.1",
-      "file_name": "downloads/online.soodok.wordsearch.release.1.0.1.rpk",
-      "versionCode": 2,
+      "version": "1.0.2",
+      "file_name": "downloads/online.soodok.wordsearch.release.1.0.2.rpk",
+      "versionCode": 3,
       "updatelogs": [
         {
           "version": "1.0.1",
           "content": "优化内存管理"
+        },
+        {
+          "version": "1.0.2",
+          "content": "解决启动重启"
         }
       ]
     },
     "xmb9p": {
-      "version": "1.0.1",
-      "file_name": "downloads/online.soodok.wordsearch.release.1.0.1.rpk",
-      "versionCode": 2,
+      "version": "1.0.2",
+      "file_name": "downloads/online.soodok.wordsearch.release.1.0.2.rpk",
+      "versionCode": 3,
       "updatelogs": [
         {
           "version": "1.0.1",
           "content": "优化内存管理"
+        },
+        {
+          "version": "1.0.2",
+          "content": "解决启动重启"
         }
       ]
     },
     "xmb10": {
-      "version": "1.0.1",
-      "file_name": "downloads/online.soodok.wordsearch.release.1.0.1.rpk",
-      "versionCode": 2,
+      "version": "1.0.2",
+      "file_name": "downloads/online.soodok.wordsearch.release.1.0.2.rpk",
+      "versionCode": 3,
       "updatelogs": [
         {
           "version": "1.0.1",
           "content": "优化内存管理"
+        },
+        {
+          "version": "1.0.2",
+          "content": "解决启动重启"
         }
       ]
     }
