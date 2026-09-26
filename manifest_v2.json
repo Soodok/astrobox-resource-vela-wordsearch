@@ -6,6 +6,7 @@
     "description": "词海是一款装进手环的离线英语词典。内置 4.8 万词条，覆盖中考、高考、四六级、考研、雅思、托福、GRE 与高频词，含 9300+ 词形变化；支持完整单词、前缀、中文释义三种搜法，查询瞬间出结果。完全离线，免费，还支持生词收藏与按难度、词性筛选。",
     "preview": [
       "media/预览-PRO-单词详情.png",
+      "media/预览-PRO-单词详情-英文释义.png",
       "media/预览-PRO-首页.png",
       "media/预览-PRO-搜索结果.png",
       "media/预览-手环-单词详情.png",
@@ -27,37 +28,37 @@
   "downloads": {
     "xmb9": {
       "version": "1.0",
-      "file_name": "downloads/online.soodok.wordsearch.debug.1.0.rpk",
+      "file_name": "downloads/online.soodok.wordsearch.release.1.0.rpk",
       "versionCode": 1
     },
     "xmb10nfc": {
       "version": "1.0",
-      "file_name": "downloads/online.soodok.wordsearch.debug.1.0.rpk",
+      "file_name": "downloads/online.soodok.wordsearch.release.1.0.rpk",
       "versionCode": 1
     },
     "xmb10p": {
       "version": "1.0",
-      "file_name": "downloads/online.soodok.wordsearch.debug.1.0.rpk",
+      "file_name": "downloads/online.soodok.wordsearch.release.1.0.rpk",
       "versionCode": 1
     },
     "xmb11": {
       "version": "1.0",
-      "file_name": "downloads/online.soodok.wordsearch.debug.1.0.rpk",
+      "file_name": "downloads/online.soodok.wordsearch.release.1.0.rpk",
       "versionCode": 1
     },
     "xmb11nfc": {
       "version": "1.0",
-      "file_name": "downloads/online.soodok.wordsearch.debug.1.0.rpk",
+      "file_name": "downloads/online.soodok.wordsearch.release.1.0.rpk",
       "versionCode": 1
     },
     "xmb9p": {
       "version": "1.0",
-      "file_name": "downloads/online.soodok.wordsearch.debug.1.0.rpk",
+      "file_name": "downloads/online.soodok.wordsearch.release.1.0.rpk",
       "versionCode": 1
     },
     "xmb10": {
       "version": "1.0",
-      "file_name": "downloads/online.soodok.wordsearch.debug.1.0.rpk",
+      "file_name": "downloads/online.soodok.wordsearch.release.1.0.rpk",
       "versionCode": 1
     }
   },
